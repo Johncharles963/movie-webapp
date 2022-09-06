@@ -1,4 +1,5 @@
 # Movie review web application
+## W.I.P
 
 This is a web application that in progress. Im using .net 6 to create it.
 Im using SQLserver and the entity framework for database funtionality.
