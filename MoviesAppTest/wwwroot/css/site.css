@@ -1,0 +1,55 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+@media (max-width: 992px) {
+    .text-sm{
+        text-align: center;
+    }
+    .width-sm{
+        width: 80%;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.bg-color-primary {
+    background-color: #8effe6;
+}
+.bg-color-2 {
+    background-color: #a9ffec;
+}
+.bg-color-3 {
+    background-color: #55fed9;
+}
+
+.bg-color-4 {
+    background-color: #00ffc6;
+}
+.bg-color-5 {
+    background-color: #00aa84;
+}
+
+.bg-color-dark {
+    background-color: #005542;
+}
+.dark-pink {
+    background-color: #ff6d8d;
+    color: white;
+    width: 150px;
+}
+    .dark-pink:hover {
+        background-color: #ff2454;
+        color: white;
+    }
